@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-import parts from "modules/parts.js";
-=======
 import parts from "./modules/parts.js";
->>>>>>> 824dbd4df32cb2c4b6d4b0b42168f950408c165a
 const {part1, part2, part3} = parts;
 const button = document.getElementById('review');
 const div = document.getElementsByTagName('div')[0];
